@@ -1,9 +1,12 @@
+import { Theme } from '../../themes';
 import * as C from './styles';
 
 export const FormStep3 = () => {
     return (
-        <C.Container>
+       <Theme>
+            <C.Container>
                 Passo 3
-        </C.Container>
+            </C.Container>
+        </Theme>
     );
 }
