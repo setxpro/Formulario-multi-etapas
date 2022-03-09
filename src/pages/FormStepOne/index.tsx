@@ -43,7 +43,7 @@ export const FormStep1 = () => {
                 <hr/>
 
                 <label>
-                    Seu nome Completo
+                    Seu nome Completo   
                     <input
                         type="text"
                         autoFocus
